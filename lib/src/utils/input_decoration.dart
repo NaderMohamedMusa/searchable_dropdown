@@ -13,7 +13,7 @@ class SearchInputDecoration extends InputDecoration {
   final Brightness? keyboardAppearance;
   final Key? key;
 
-  SearchInputDecoration({
+  const SearchInputDecoration({
     this.key,
     this.cursorColor = Colors.black,
     this.textCapitalization = TextCapitalization.none,

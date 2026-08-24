@@ -1,3 +1,6 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+
 class ShortCutsWidget<T> extends StatelessWidget {
   const ShortCutsWidget({
     super.key,
